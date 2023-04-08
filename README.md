@@ -1,6 +1,8 @@
 # Gadget Company Sales Performance Analysis using PowerBI
 I created a Sales Performance Dashboard from the sales dataset of a gadget company. 
 
+![Picture of Sales Performance Dashboard](https://github.com/OsyTheDataGuy/Gadget-Company-Sales-Performance-Analysis/blob/main/Images/Screenshot%20(144).png)
+
 The gadget company is a national company that does business in 31 states across all geopolitical zones of Nigeria. They have 6 product categories: Computers; Cameras and camcorders; TV and Video; Cell phones; Audio; Music, Movies, and Audiobooks. 
 
 ## I provided insights about the performance of the gadget company across:
